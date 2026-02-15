@@ -40,7 +40,7 @@ El clima debe considerarse en: Planificación operativa, Estimación de tiempos 
 
 📈 Algunas Visualizaciones
 
-<img src="assets/empresassolicitadas.jpg" width="300"> <img src="assets/top10barrios.jpg" width="200"> <img src="assets/pastelempresas.jpg" width="400">
+<img src="assets/empresassolicitadas.jpg" width="300"> <img src="assets/top10barrios.jpg" width="260"> <img src="assets/pastelempresas.jpg" width="350">
 <img src="assets/distribucionduracion.jpg" width="300">
 
 
