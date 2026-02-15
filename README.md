@@ -12,6 +12,7 @@
 📌 Contexto
 Proyecto de análisis exploratorio para Zuber, empresa de viajes compartidos en Chicago.
 Se analizaron datos de viajes para comprender: Zonas con mayor demanda, Empresas más activas e Impacto del clima en la duración de los viajes
+📁 Datasets: project_sql_result_01.csv, project_sql_result_07.csv, project_sql_result_04.csv
 
 🎯 Objetivo
 Identificar patrones en los datos que permitan:
