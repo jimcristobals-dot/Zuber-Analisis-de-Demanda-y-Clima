@@ -39,6 +39,7 @@ Flash Cab es el principal competidor
 El clima debe considerarse en: Planificación operativa, Estimación de tiempos y Estrategias de precios dinámicos
 
 📈 Algunas Visualizaciones
+
 <img src="assets/empresassolicitadas.jpg" width="300"> <img src="top10barrios.jpg" width="300"> <img src="assets/pastelempresas.jpg" width="300">
 <img src="assets/distribucionduracion.jpg" width="300">
 
